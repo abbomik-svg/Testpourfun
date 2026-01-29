@@ -1,0 +1,31 @@
+# Fichiers objets compilés
+*.o
+*.a
+*.so
+
+# Exécutables
+simu_urgences
+*.exe
+
+# Fichiers de debug
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Répertoire VS Code
+.vscode/
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
+*~
+
+# Fichiers temporaires
+*.swp
+*.swo
+*#
+
+# Fichiers de sortie de test
+*.out
+*.log
